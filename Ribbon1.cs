@@ -23,10 +23,5 @@ namespace Procision
         {
             dc.centerAlign();
         }
-
-        private void button3_Click(object sender, RibbonControlEventArgs e)
-        {
-            dc.formatNames();
-        }
     }
 }
