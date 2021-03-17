@@ -11,3 +11,16 @@ C:\Users\sanch\Desktop\Development\Visual Studio\Procision\obj\Debug\Procision.c
 C:\Users\sanch\Desktop\Development\Visual Studio\Procision\obj\Debug\Procision.csproj.CopyComplete
 C:\Users\sanch\Desktop\Development\Visual Studio\Procision\obj\Debug\Procision.dll
 C:\Users\sanch\Desktop\Development\Visual Studio\Procision\obj\Debug\Procision.pdb
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\bin\Debug\Procision.dll
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\bin\Debug\Procision.pdb
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\bin\Debug\Procision.dll.manifest
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\bin\Debug\Procision.vsto
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.csprojAssemblyReference.cache
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.Properties.Resources.resources
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.Ribbon1.resources
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.csproj.GenerateResource.cache
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.csproj.CopyComplete
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.dll
+C:\Users\sanch\Documents\Dev Stuff\Visual Studio\Procision\obj\Debug\Procision.pdb
