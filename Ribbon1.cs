@@ -28,5 +28,15 @@ namespace Procision
         {
             dc.formatNames();
         }
+
+        private void button4_Click(object sender, RibbonControlEventArgs e)
+        {
+            dc.formatPhoneNumber();
+        }
+
+        private void button5_Click(object sender, RibbonControlEventArgs e)
+        {
+            dc.formatAddress();
+        }
     }
 }
